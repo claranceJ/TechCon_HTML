@@ -1,0 +1,425 @@
+at Google we are fully in our Gemini era
+0:10
+today all of our 2 billion user products
+0:13
+use Gemini Gemini 1.5 Pro is available
+0:16
+today in workspace Labs let's see how
+0:19
+this comes to life with Google workspace
+0:23
+people are always searching their emails
+0:25
+and Gmail we are working to make it much
+0:27
+more powerful with Gemini now we can ask
+0:30
+Gemini to summarize all recent emails
+0:33
+from the school maybe you were traveling
+0:35
+this week and you couldn't make the PTA
+0:37
+meeting the recording of the meeting is
+0:40
+an hour long if it's from Google meet
+0:43
+you can ask Gemini to give you the
+0:45
+highlights people love using photos to
+0:47
+search across their life with Gemini
+0:50
+you're making that a whole lot easier
+0:53
+and ask photos can also help you search
+0:55
+your memories in a deeper way for
+0:58
+example you might be reminiscent about
+1:00
+your daughter Lucia's early Milestones
+1:03
+you can ask photos show me how Luci
+1:06
+swimming has progressed here Gemini goes
+1:10
+beyond a simple search recognizing
+1:13
+different contexts and photos packages
+1:15
+it up all together in a
+1:19
+summary unlocking knowledge across
+1:22
+formats is why we built Gemini to be
+1:24
+multimodal from the ground up it's one
+1:26
+model with all the modalities built in
+1:29
+we have been growing rolling out Gemini
+1:30
+1.5 Pro with long context and preview
+1:33
+over the last few months so today we are
+1:36
+expanding the context window to 2
+1:38
+million
+1:43
+tokens so far we have talked about two
+1:45
+technical advances multimodality and
+1:48
+long context each is powerful on its own
+1:52
+but together they unlock deeper
+1:54
+capabilities and more intelligence but
+1:57
+what if we could go even further that's
+1:59
+one of the opportunities we see with AI
+2:01
+agents I think about them as intelligent
+2:04
+systems that show reasoning planning and
+2:07
+memory are able to think multiple steps
+2:10
+ahead work across software and systems
+2:14
+all to get something done on your behalf
+2:17
+and most importantly under your
+2:20
+supervision today we have some exciting
+2:22
+new progress to share about the future
+2:24
+of AI assistance that we're calling
+2:27
+project Astra for a long time we wanted
+2:30
+to build a universal AI agent that can
+2:32
+be truly helpful in everyday life here's
+2:34
+a video of our prototype which we'll see
+2:37
+has two parts each part was captured in
+2:40
+a single take in real
+2:43
+time what does that part of the code
+2:47
+do this code defines encryption and
+2:51
+decryption functions it seems to use
+2:54
+aebc encryption to encode and decode
+2:57
+data based on a key and an
+2:59
+initialization Vector
+3:01
+IV do you remember where you saw my
+3:05
+glasses yes I do your glasses were on
+3:08
+the desk near a red
+3:16
+apple uh give me a band name for this
+3:22
+Duo golden Stripes nice thanks Gemini
+3:26
+today we're introducing Gemini 1.5 flash
+3:30
+flash is a lighter weight model compared
+3:32
+to Pro it's designed to be fast and cost
+3:35
+efficient to serve at scale while still
+3:37
+featuring multimodal reasoning
+3:39
+capabilities and breakthrough long
+3:41
+context there's one more area I'm really
+3:43
+excited to share with you our teams have
+3:45
+made some incredible progress in
+3:47
+genitive
+3:48
+video today I'm excited to announce our
+3:51
+newest most capable generative video
+3:53
+model called vo vo creates high quality
+3:57
+1080p videos from text image and video
+4:00
+prompts it can capture the details of
+4:03
+your instructions in different Visual
+4:04
+and cinematic
+4:08
+styles for 25 years we have invested in
+4:12
+worldclass technical infrastructure
+4:14
+today we are exited to announce the
+4:16
+sixth generation of tpus called Trillium
+4:20
+Trillium delivers a 4.7x Improvement in
+4:24
+compute performance per chip over the
+4:26
+previous generation Google search is
+4:29
+generative AI at the scale of human
+4:32
+curiosity and it's our most exciting
+4:34
+chapter of search
+4:37
+yet all the advancements you'll see
+4:39
+today are made possible by a new Gemini
+4:42
+model customized for Google search what
+4:45
+really sets this apart is our three
+4:47
+unique
+4:48
+strengths this is search in the Gemini
+4:51
+era by the end of the year AI overviews
+4:54
+will come to over a billion people we're
+4:57
+making AI overviews even more helpful
+4:59
+for your most complex questions the type
+5:02
+that are really more like 10 questions
+5:03
+in one you can ask your entire question
+5:07
+with all its sub questions and get an AI
+5:09
+overview in
+5:11
+seconds I'm really excited to share that
+5:14
+soon you'll be able to ask questions
+5:16
+with video why will this not stay in
+5:21
+place and a near instant Google gives me
+5:25
+an AI overview I guess some reasons this
+5:28
+might be happening and steps I can take
+5:30
+to troubleshoot since last May we've
+5:33
+been hard at work making Gemini for
+5:35
+workspace even more helpful for
+5:37
+businesses and consumers across the
+5:41
+world now I can simply type out my
+5:44
+question right here in the Mobile card
+5:46
+and say something like compare my roof
+5:49
+repair bids by price and
+5:51
+availability this new Q&A feature makes
+5:54
+it so easy to get quick answers on
+5:56
+anything in my inbox today we'll show
+5:59
+you how how Gemini is delivering our
+6:01
+most intelligent AI experience we're
+6:03
+rolling out a new feature that lets you
+6:05
+customize it for your own needs and
+6:08
+create personal experts on any topic you
+6:11
+want we're calling these gems they're
+6:14
+really simple to set up just tap to
+6:16
+create a gem write your instructions
+6:18
+once and come back whenever you need it
+6:21
+starting today Gemini Advance
+6:23
+subscribers get access to Gemini 1.5 Pro
+6:27
+with 1 million tokens
+6:30
+that is the longest context window of
+6:32
+any chatbot in the world you can upload
+6:35
+a PDF up to 1500 pages long or multiple
+6:40
+files to get insights across a
+6:45
+project now we all know that chat Bots
+6:47
+can give you ideas for your next
+6:49
+vacation but there's a lot more that
+6:51
+goes into planning a great
+6:53
+trip it requires reasoning that
+6:56
+considers space time Logistics and the
+6:59
+intellig to prioritize and make
+7:02
+decisions that reasoning and
+7:04
+intelligence all come together in the
+7:06
+new trip planning experience in Gemini
+7:09
+Advanced we've embarked on a multi-year
+7:11
+journey to reimagine Android with AI at
+7:15
+the core now we're making Gemini context
+7:19
+aware so it can anticipate what you're
+7:21
+trying to do and provide more helpful
+7:24
+suggestions in the moment let me show
+7:26
+you how this works so my friend Pete is
+7:29
+asking if I want to play pickle ball
+7:30
+this weekend but I'm new to this pickle
+7:32
+ball thing and I can bring up Gemini to
+7:34
+help with that Gemini knows I'm looking
+7:36
+at a video so it proactively shows me an
+7:39
+ask this video chip so let me tap on
+7:42
+that and now I can ask specific
+7:44
+questions about the video so for example
+7:47
+uh what is the two bounce rule so give
+7:52
+it a moment and there I get a nice
+7:55
+succinct answer starting with pixel
+7:57
+later this year will be expanding what's
+8:00
+possible with our latest model Gemini
+8:02
+Nano with
+8:04
+multimodality this means your phone can
+8:06
+understand the world the way you
+8:08
+understand it so not just through text
+8:10
+input but also through sights sounds and
+8:13
+spoken language now let's shift gears
+8:16
+and talk about Gemma our family of open
+8:19
+models which are crucial for driving AI
+8:22
+Innovation and responsibility today's
+8:25
+newest member poly Gemma our first
+8:29
+Vision language open model and it's
+8:31
+available right now I'm also excited to
+8:35
+announce that we have gimma 2 coming
+8:39
+it's the next generation of Gemma and it
+8:41
+will be available in June so in a few
+8:43
+weeks we'll be adding a new 27 billion
+8:46
+parameter model to Jimma
+8:52
+2 to us building AI responsibly means
+8:56
+both addressing the risks and maximizing
+8:59
+and the benefits for people and Society
+9:01
+we're improving our models with an
+9:03
+industry standard practice called red
+9:05
+teaming in which we test our own models
+9:08
+and try to break them to identify
+9:10
+weaknesses I'm excited to introduce
+9:13
+learn
+9:14
+LM our new family of models based on
+9:18
+Gemini and fine-tuned for learning
+9:21
+another example is a new feature in
+9:23
+YouTube that uses learn LM to make
+9:26
+educational videos more Interactive
+9:29
+allowing you to ask a clarifying
+9:31
+question get a helpful explanation or
+9:34
+take a quiz all of this shows the
+9:36
+important progress we have made as we
+9:37
+take a bold and responsible approach to
+9:40
+making AI helpful for everyone to
+9:42
+everyone here in shine and the millions
+9:45
+more watching around the world here's to
+9:47
+the possibilities ahead and creating
+9:49
+them together thank you
